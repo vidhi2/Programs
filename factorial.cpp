@@ -1,3 +1,6 @@
+
+// author : iamvoid13 (Lovekesh Garg)
+
 /*
 	A simple C++ program to calculate n!.
 	Both by :
