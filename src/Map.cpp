@@ -11,4 +11,5 @@ int main(){
 	if(name.find("shreyans")==name.end()){
 		printf("name not found");
 	}
+	return 0;
 }
